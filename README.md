@@ -45,6 +45,7 @@ Google Drive Link:  [NCEPU-GRSCD Dataset](https://drive.google.com/drive/folders
 
 To ensure the provided training and evaluation scripts work correctly, please organize the downloaded files as follows:
 
+```
 ncepu-grscd/
 ├── data/
 │   ├── train/              # Training Set (10,500 images) 
@@ -62,7 +63,8 @@ ncepu-grscd/
 │       ├── clearsky/       # 300 images 
 │       ├── stratocumulus/  # 300 images 
 │       ├── cumulonimbus/   # 300 images 
-│       └── mixed/          # 300 images
+│       └── mixed/          # 300 images 
+```
 
 ### 
 
