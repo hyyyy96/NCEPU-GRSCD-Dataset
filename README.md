@@ -37,7 +37,7 @@ The dataset follows the World Meteorological Organization (WMO) cloud genera sta
 
 ### 4.1 Direct Download
 
-The **NCEPU-GRSCD** dataset (including raw RGB images and processed Optical Flow maps) is hosted on Google Drive. You can access and download the full dataset via the link below:
+The **NCEPU-GRSCD** dataset  is hosted on Google Drive. You can access and download the full dataset via the link below:
 
 Google Drive Link:  [NCEPU-GRSCD Dataset](https://drive.google.com/drive/folders/1rTxVDREpT_1Wws0FEVmdzihim04nyNMC?usp=drive_link)
 
