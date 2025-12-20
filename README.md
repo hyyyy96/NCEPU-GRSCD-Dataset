@@ -4,7 +4,7 @@
 
 The **NCEPU-GRSCD** is a specialized ground-based cloud image dataset collected and curated by North China Electric Power University. This dataset is designed to support research in automated cloud classification, meteorological monitoring, and ultra-short-term photovoltaic power prediction.
 
-![md图](D:\04code\cnn\dinov3-main\md图.jpg)
+![Data Samples](./images/samples.jpg)
 
 ## 2.Data Acquisition
 
